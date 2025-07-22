@@ -1,6 +1,9 @@
 
 <h1 align="left">Filipe Chinita</h1>
 <h2 align="left">Junior Fullstack Developer</h2>
+<a href="www.linkedin.com/in/fchinita98">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="javascript logo"  />
+</a>
 
 ###
 
